@@ -1,0 +1,16 @@
+{
+  "mode": "parallele",
+  "processus": 4,
+  "masques": 349,
+  "secondes": 116.54671243099983,
+  "debit_images_s": 2.9945074616036167,
+  "ms_image": 333.9447347593118,
+  "puissance_W": 4.6,
+  "mJ_image": 1536.1457798928345,
+  "resolution": [
+    640,
+    360
+  ],
+  "seuil": 25,
+  "video_source": "/home/pi/Documents/partie2/IMG_0882.mov"
+}

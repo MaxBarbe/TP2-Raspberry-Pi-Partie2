@@ -1,0 +1,22 @@
+[
+  {
+    "fichier": "image.jpeg",
+    "sha256": "5b1909815782f9a9cc8460f63ac23ca9d1d4af2d0e9087fefbef30ba2cf2f324"
+  },
+  {
+    "fichier": "image1.jpg",
+    "sha256": "fe390fa10d93af020045c4f822b25eb6d748f1b18a66a7c245f039d052de4f69"
+  },
+  {
+    "fichier": "image_1.jpeg",
+    "sha256": "64d9f18384f2bdc8067894437aa47616265c06ea1d473d8096d424ddec66d286"
+  },
+  {
+    "fichier": "image_2.jpeg",
+    "sha256": "c62f14d7f410635f287fcea07312f85d1d8cccc7c7f92df6b255b80562a3c6c1"
+  },
+  {
+    "fichier": "image_3.png",
+    "sha256": "98e895674f6aea10cdd40c1a8e89a40980a0c39be1058b85ed7222fcb0f9cea2"
+  }
+]

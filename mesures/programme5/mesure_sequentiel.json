@@ -1,0 +1,16 @@
+{
+  "mode": "sequentiel",
+  "processus": 1,
+  "masques": 349,
+  "secondes": 115.12458163599968,
+  "debit_images_s": 3.0314985300312878,
+  "ms_image": 329.8698614212025,
+  "puissance_W": 4.35,
+  "mJ_image": 1434.933897182231,
+  "resolution": [
+    640,
+    360
+  ],
+  "seuil": 25,
+  "video_source": "/home/pi/Documents/partie2/IMG_0882.mov"
+}

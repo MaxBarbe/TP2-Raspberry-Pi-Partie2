@@ -1,0 +1,33 @@
+[
+  {
+    "mode": "max",
+    "governor_linux": "performance",
+    "plafond_kHz": 1800000,
+    "processus": 1,
+    "tours": 5,
+    "images": 25,
+    "secondes": 13.60970000999987,
+    "images_s": 1.8369251329295273,
+    "ms_image": 544.3880003999948,
+    "tension_V": 5.0,
+    "courant_A": 0.67,
+    "puissance_W": 3.35,
+    "puissance_repos_W": 2.5,
+    "surplus_puissance_carte_W": 0.8500000000000001,
+    "cpu_autorises_aux_travailleurs": [
+      0
+    ],
+    "activite_cpu_pourcent": {
+      "cpu0": 99.9,
+      "cpu1": 0.5,
+      "cpu2": 2.3,
+      "cpu3": 10.9
+    },
+    "mJ_image": 1823.6998013399827,
+    "frequence_MHz_min_mediane_max": [
+      1800.0,
+      1800.0,
+      1800.0
+    ]
+  }
+]

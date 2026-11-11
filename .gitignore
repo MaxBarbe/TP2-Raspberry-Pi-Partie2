@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.env
+resultats/
+resultats_image/
+resultats_programme4/
+resultats_video/
+*.tmp.mp4
